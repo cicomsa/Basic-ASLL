@@ -27,5 +27,8 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "jest-enzyme": "^6.0.0",
     "react-test-renderer": "^16.3.2"
+  },
+  "resolutions": {
+    "mem": "4.0.0"
   }
 }
